@@ -20,13 +20,13 @@ def check_useless_line(line):
         return False
 
 def get_paragraphs(file, average):
-    """ If a line ends with a full stop and is 60% less the average length of a line,
+    """ If a line ends with a full stop followed by an optional quotation mark and is 85% less the average length of a line,
     it is probably the end of a paragraph.
     """
     paragraph = ''
     paragraphs = []
     for line in file:
-        if re.search(r'\.$', line) and (len(line) / average) < 0.6: 
+        if re.search(r"\.[']?$", line) and (len(line) / average) < 0.85: 
             paragraph += line
             paragraphs.append(paragraph)
             paragraph = ''

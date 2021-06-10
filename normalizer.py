@@ -35,9 +35,10 @@ def normalizer(word):
             new_word += letter
     return new_word
 
+
 def main():
-    print(normalizer('rīċe'))
-    print(normalizer('ġe·hǣlde'))
+    print('rīċe -> ', normalizer('rīċe'))
+    print('ġe·hǣlde -> ', normalizer('ġe·hǣlde'))
 
 if __name__ == '__main__':
     main()
