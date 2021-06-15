@@ -1,3 +1,12 @@
+# Creation and Annotation of Linguistic Resources
+# University of Zurich
+
+# Author: Eyal Liron Dolev
+# 15.06.2021
+
+# Script for converting the raw text to files containing no empty lines, 
+# no hard wrap and one paragraph per line.
+
 import re
 import sys
 import os
@@ -7,7 +16,7 @@ from statistics import mean
 
 def get_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('file', nargs='+')
+    parser.add_argument('file', nargs='+', help='TXT files to be processed')
     args = parser.parse_args()
     return args
 

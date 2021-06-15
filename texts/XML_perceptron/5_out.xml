@@ -1,0 +1,905 @@
+<?xml version='1.0' encoding='utf-8'?>
+<text title="FROM THE CHRONICLE.">
+  <p>
+    <s id="s-1" lang="ang">
+      <w id="s-1-w-1" pos="V-" lemma="Breten" norm="Breten">Breten</w>
+      <w id="s-1-w-2" pos="NE" lemma="ieg" norm="ieg">īeġ</w>
+      <w id="s-1-w-3" pos="F-" lemma="crist" norm="">-</w>
+      <w id="s-1-w-4" pos="NB" lemma="land" norm="land">land</w>
+      <w id="s-1-w-5" pos="V-" lemma="is" norm="is">is</w>
+      <w id="s-1-w-6" pos="NB" lemma="eahta" norm="eahta">eahta</w>
+      <w id="s-1-w-7" pos="PY" lemma="hund" norm="hund">hund</w>
+      <w id="s-1-w-8" pos="NB" lemma="mīla" norm="mila">mīla</w>
+      <w id="s-1-w-9" pos="A-" lemma="lang" norm="lang">lang</w>
+      <w id="s-1-w-10" pos="NB" lemma="," norm="">,</w>
+      <w id="s-1-w-11" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-12" pos="PY" lemma="twā" norm="twa">twā</w>
+      <w id="s-1-w-13" pos="PY" lemma="hund" norm="hund">hund</w>
+      <w id="s-1-w-14" pos="NB" lemma="mīla" norm="mila">mīla</w>
+      <w id="s-1-w-15" pos="R-" lemma="brad" norm="brad">brād</w>
+      <w id="s-1-w-16" pos="NB" lemma=";" norm="">;</w>
+      <w id="s-1-w-17" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-18" pos="A-" lemma="hēr" norm="her">hēr</w>
+      <w id="s-1-w-19" pos="NB" lemma="wesan" norm="sind">sind</w>
+      <w id="s-1-w-20" pos="R-" lemma="on" norm="on">on</w>
+      <w id="s-1-w-21" pos="NB" lemma="þǣm" norm="thaem">þǣm</w>
+      <w id="s-1-w-22" pos="V-" lemma="iegland" norm="ieglande">īeġlande</w>
+      <w id="s-1-w-23" pos="V-" lemma="fīf" norm="fif">fīf</w>
+      <w id="s-1-w-24" pos="NE" lemma="geþeode" norm="getheodu">ġeþēodu</w>
+      <w id="s-1-w-25" pos="NE" lemma=":" norm="">:</w>
+      <w id="s-1-w-26" pos="A-" lemma="Ęnġlisc" norm="Ęnglisc">Ęnġlisc</w>
+      <w id="s-1-w-27" pos="NE" lemma="," norm="">,</w>
+      <w id="s-1-w-28" pos="NE" lemma="Brettisc" norm="Brettisc">Brettisc</w>
+      <w id="s-1-w-29" pos="NE" lemma="," norm="">,</w>
+      <w id="s-1-w-30" pos="NE" lemma="Scyttisc" norm="Scyttisc">Scyttisc</w>
+      <w id="s-1-w-31" pos="NE" lemma="," norm="">,</w>
+      <w id="s-1-w-32" pos="NE" lemma="Pihtisc" norm="Pihtisc">Pihtisc</w>
+      <w id="s-1-w-33" pos="NB" lemma="," norm="">,</w>
+      <w id="s-1-w-34" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-35" pos="NE" lemma="boc" norm="Boc">Bōc</w>
+      <w id="s-1-w-36" pos="NB" lemma="crist" norm="">-</w>
+      <w id="s-1-w-37" pos="V-" lemma="læden" norm="laeden">læden</w>
+      <w id="s-1-w-38" pos="NE" lemma="." norm="">.</w>
+    </s>
+    <s id="s-2" lang="ang">
+      <w id="s-2-w-1" pos="DF" lemma="Ǣrest" norm="Ǣrest">Ǣrest</w>
+      <w id="s-2-w-2" pos="DF" lemma="beon" norm="waeron">wǣron</w>
+      <w id="s-2-w-3" pos="V-" lemma="būend" norm="buend">būend</w>
+      <w id="s-2-w-4" pos="PD" lemma="þes" norm="thisses">þisses</w>
+      <w id="s-2-w-5" pos="NB" lemma="land" norm="landes">landes</w>
+      <w id="s-2-w-6" pos="NE" lemma="bryttas" norm="Brettas">Brettas</w>
+      <w id="s-2-w-7" pos="NE" lemma="." norm="">.</w>
+    </s>
+    <s id="s-3" lang="ang">
+      <w id="s-3-w-1" pos="DF" lemma="Þā" norm="Tha">Þā</w>
+      <w id="s-3-w-2" pos="V-" lemma="cuman" norm="comon">cōmon</w>
+      <w id="s-3-w-3" pos="R-" lemma="of" norm="of">of</w>
+      <w id="s-3-w-4" pos="NE" lemma="Armenia" norm="Armenia">Armenia</w>
+      <w id="s-3-w-5" pos="NB" lemma="," norm="">,</w>
+      <w id="s-3-w-6" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-3-w-7" pos="V-" lemma="gesittan" norm="gesaeton">ġesǣton</w>
+      <w id="s-3-w-8" pos="NB" lemma="sūþan" norm="suthan">sūþan</w>
+      <w id="s-3-w-9" pos="DF" lemma="crist" norm="">-</w>
+      <w id="s-3-w-10" pos="V-" lemma="weard" norm="wearde">wearde</w>
+      <w id="s-3-w-11" pos="NE" lemma="Bretene" norm="Bretene">Bretene</w>
+      <w id="s-3-w-12" pos="NE" lemma="ǣrest" norm="aerest">ǣrest</w>
+      <w id="s-3-w-13" pos="NB" lemma="." norm="">.</w>
+    </s>
+    <s id="s-4" lang="ang">
+      <w id="s-4-w-1" pos="DF" lemma="Þā" norm="Tha">Þā</w>
+      <w id="s-4-w-2" pos="V-" lemma="gelimpan" norm="gelamp">ġelamp</w>
+      <w id="s-4-w-3" pos="PP" lemma="hit" norm="hit">hit</w>
+      <w id="s-4-w-4" pos="G-" lemma="þæt" norm="thaet">þæt</w>
+      <w id="s-4-w-5" pos="NE" lemma="peohtas" norm="Peohtas">Peohtas</w>
+      <w id="s-4-w-6" pos="V-" lemma="cuman" norm="comon">cōmon</w>
+      <w id="s-4-w-7" pos="NB" lemma="sūþan" norm="suthan">sūþan</w>
+      <w id="s-4-w-8" pos="R-" lemma="of" norm="of">of</w>
+      <w id="s-4-w-9" pos="NE" lemma="Scithian" norm="Scithian">Scithian</w>
+      <w id="s-4-w-10" pos="R-" lemma="mid" norm="mid">mid</w>
+      <w id="s-4-w-11" pos="A-" lemma="lang" norm="langum">langum</w>
+      <w id="s-4-w-12" pos="NB" lemma="scip" norm="scipum">sċipum</w>
+      <w id="s-4-w-13" pos="NE" lemma="," norm="">,</w>
+      <w id="s-4-w-14" pos="PY" lemma="nā" norm="na">nā</w>
+      <w id="s-4-w-15" pos="NB" lemma="manig" norm="manigum">manigum</w>
+      <w id="s-4-w-16" pos="NB" lemma=";" norm="">;</w>
+      <w id="s-4-w-17" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-4-w-18" pos="A-" lemma="þā" norm="tha">þā</w>
+      <w id="s-4-w-19" pos="NB" lemma="cuman" norm="comon">cōmon</w>
+      <w id="s-4-w-20" pos="DF" lemma="ǣrest" norm="aerest">ǣrest</w>
+      <w id="s-4-w-21" pos="R-" lemma="on" norm="on">on</w>
+      <w id="s-4-w-22" pos="NE" lemma="norþ" norm="North">Norþ</w>
+      <w id="s-4-w-23" pos="NB" lemma="crist" norm="">-</w>
+      <w id="s-4-w-24" pos="V-" lemma="ibernian" norm="ibernian">ibernian</w>
+      <w id="s-4-w-25" pos="A-" lemma="ūp" norm="up">ūp</w>
+      <w id="s-4-w-26" pos="NB" lemma=";" norm="">;</w>
+      <w id="s-4-w-27" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-4-w-28" pos="DF" lemma="þǣr" norm="thaer">þǣr</w>
+      <w id="s-4-w-29" pos="V-" lemma="biddan" norm="baedon">bǣdon</w>
+      <w id="s-4-w-30" pos="NE" lemma="scottas" norm="Scottas">Scottas</w>
+      <w id="s-4-w-31" pos="PD" lemma="þæt" norm="thaet">þæt</w>
+      <w id="s-4-w-32" pos="NB" lemma="hīe" norm="hie">hīe</w>
+      <w id="s-4-w-33" pos="G-" lemma="þǣr" norm="thaer">þǣr</w>
+      <w id="s-4-w-34" pos="V-" lemma="motan" norm="mosten">mōsten</w>
+      <w id="s-4-w-35" pos="V-" lemma="wunian" norm="wunian">wunian</w>
+      <w id="s-4-w-36" pos="V-" lemma="." norm="">.</w>
+    </s>
+    <s id="s-5" lang="ang">
+      <w id="s-5-w-1" pos="C-" lemma="ac" norm="Ac">Ac</w>
+      <w id="s-5-w-2" pos="PP" lemma="hīe" norm="hie">hīe</w>
+      <w id="s-5-w-3" pos="V-" lemma="nillan" norm="noldon">noldon</w>
+      <w id="s-5-w-4" pos="PP" lemma="he" norm="him">him</w>
+      <w id="s-5-w-5" pos="V-" lemma="liefan" norm="liefan">līefan</w>
+      <w id="s-5-w-6" pos="V-" lemma="," norm="">,</w>
+      <w id="s-5-w-7" pos="R-" lemma="for" norm="for">for</w>
+      <w id="s-5-w-8" pos="PD" lemma="þǣm" norm="thaem">þǣm</w>
+      <w id="s-5-w-9" pos="G-" lemma="þe" norm="the">þe</w>
+      <w id="s-5-w-10" pos="DF" lemma="hīe" norm="hie">hīe</w>
+      <w id="s-5-w-11" pos="V-" lemma="cweþan" norm="cwaedon">cwǣdon</w>
+      <w id="s-5-w-12" pos="PD" lemma="þæt" norm="thaet">þæt</w>
+      <w id="s-5-w-13" pos="NB" lemma="hīe" norm="hie">hīe</w>
+      <w id="s-5-w-14" pos="DF" lemma="ne" norm="ne">ne</w>
+      <w id="s-5-w-15" pos="V-" lemma="magan" norm="mihten">mihten</w>
+      <w id="s-5-w-16" pos="PY" lemma="ealle" norm="ealle">ealle</w>
+      <w id="s-5-w-17" pos="A-" lemma="ætgædre" norm="aetgaedre">ætgædre</w>
+      <w id="s-5-w-18" pos="V-" lemma="gewunian" norm="gewunian">ġewunian</w>
+      <w id="s-5-w-19" pos="A-" lemma="þǣr" norm="thaer">þǣr</w>
+      <w id="s-5-w-20" pos="NB" lemma="." norm="">.</w>
+    </s>
+    <s id="s-6" lang="ang">
+      <w id="s-6-w-1" pos="C-" lemma="and" norm="And">And</w>
+      <w id="s-6-w-2" pos="DF" lemma="þā" norm="tha">þā</w>
+      <w id="s-6-w-3" pos="V-" lemma="cweþan" norm="cwaedon">cwǣdon</w>
+      <w id="s-6-w-4" pos="PD" lemma="þā" norm="tha">þā</w>
+      <w id="s-6-w-5" pos="NB" lemma="scottas" norm="Scottas">Scottas</w>
+      <w id="s-6-w-6" pos="NE" lemma=":" norm="">:</w>
+      <w id="s-6-w-7" pos="NE" lemma="'" norm="">'</w>
+      <w id="s-6-w-8" pos="NE" lemma="Wē" norm="We">Wē</w>
+      <w id="s-6-w-9" pos="NB" lemma="magan" norm="magon">magon</w>
+      <w id="s-6-w-10" pos="NE" lemma="eowan" norm="eow">ēow</w>
+      <w id="s-6-w-11" pos="NB" lemma="hwæþre" norm="hwaethre">hwæþre</w>
+      <w id="s-6-w-12" pos="NB" lemma="rædan" norm="raed">rǣd</w>
+      <w id="s-6-w-13" pos="R-" lemma="gelæran" norm="gelaeran">ġelǣran</w>
+      <w id="s-6-w-14" pos="NE" lemma=":" norm="">:</w>
+      <w id="s-6-w-15" pos="NB" lemma="wē" norm="we">wē</w>
+      <w id="s-6-w-16" pos="V-" lemma="witan" norm="witon">witon</w>
+      <w id="s-6-w-17" pos="A-" lemma="ōþer" norm="other">ōþer</w>
+      <w id="s-6-w-18" pos="NB" lemma="iegland" norm="iegland">īeġland</w>
+      <w id="s-6-w-19" pos="NB" lemma="hēr" norm="her">hēr</w>
+      <w id="s-6-w-20" pos="NE" lemma="crist" norm="">-</w>
+      <w id="s-6-w-21" pos="R-" lemma="beēastan" norm="beeastan">beēastan</w>
+      <w id="s-6-w-22" pos="NE" lemma=";" norm="">;</w>
+      <w id="s-6-w-23" pos="PD" lemma="þǣr" norm="thaer">þǣr</w>
+      <w id="s-6-w-24" pos="NB" lemma="ġē" norm="ge">ġē</w>
+      <w id="s-6-w-25" pos="V-" lemma="magan" norm="magon">magon</w>
+      <w id="s-6-w-26" pos="V-" lemma="eardian" norm="eardian">eardian</w>
+      <w id="s-6-w-27" pos="A-" lemma="," norm="">,</w>
+      <w id="s-6-w-28" pos="NE" lemma="ġif" norm="gif">ġif</w>
+      <w id="s-6-w-29" pos="NE" lemma="ġē" norm="ge">ġē</w>
+      <w id="s-6-w-30" pos="NB" lemma="willan" norm="willath">willaþ</w>
+      <w id="s-6-w-31" pos="NB" lemma=";" norm="">;</w>
+      <w id="s-6-w-32" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-6-w-33" pos="NE" lemma="ġif" norm="gif">ġif</w>
+      <w id="s-6-w-34" pos="NB" lemma="hwā" norm="hwa">hwā</w>
+      <w id="s-6-w-35" pos="NE" lemma="eowan" norm="eow">ēow</w>
+      <w id="s-6-w-36" pos="NB" lemma="wiþstęnt" norm="withstent">wiþstęnt</w>
+      <w id="s-6-w-37" pos="NE" lemma="," norm="">,</w>
+      <w id="s-6-w-38" pos="NB" lemma="wē" norm="we">wē</w>
+      <w id="s-6-w-39" pos="NE" lemma="eowan" norm="eow">ēow</w>
+      <w id="s-6-w-40" pos="V-" lemma="fultumiaþ" norm="fultumiath">fultumiaþ</w>
+      <w id="s-6-w-41" pos="G-" lemma="þæt" norm="thaet">þæt</w>
+      <w id="s-6-w-42" pos="G-" lemma="ġē" norm="ge">ġē</w>
+      <w id="s-6-w-43" pos="PP" lemma="hit" norm="hit">hit</w>
+      <w id="s-6-w-44" pos="PY" lemma="mægen" norm="maegen">mæġen</w>
+      <w id="s-6-w-45" pos="A-" lemma="ġegān" norm="gegan">ġegān</w>
+      <w id="s-6-w-46" pos="V-" lemma=".'" norm="">.'</w>
+    </s>
+  </p>
+  <p>
+    <s id="s-1" lang="ang">
+      <w id="s-1-w-1" pos="DF" lemma="Þā" norm="Tha">Þā</w>
+      <w id="s-1-w-2" pos="V-" lemma="feran" norm="ferdon">fērdon</w>
+      <w id="s-1-w-3" pos="PD" lemma="þā" norm="tha">þā</w>
+      <w id="s-1-w-4" pos="NE" lemma="peohtas" norm="Peohtas">Peohtas</w>
+      <w id="s-1-w-5" pos="NE" lemma="," norm="">,</w>
+      <w id="s-1-w-6" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-7" pos="V-" lemma="ġefērdon" norm="geferdon">ġefērdon</w>
+      <w id="s-1-w-8" pos="PD" lemma="þis" norm="this">þis</w>
+      <w id="s-1-w-9" pos="NB" lemma="land" norm="land">land</w>
+      <w id="s-1-w-10" pos="DF" lemma="norþan" norm="northan">norþan</w>
+      <w id="s-1-w-11" pos="NE" lemma="crist" norm="">-</w>
+      <w id="s-1-w-12" pos="NB" lemma="weard" norm="weard">weard</w>
+      <w id="s-1-w-13" pos="NE" lemma=";" norm="">;</w>
+      <w id="s-1-w-14" pos="NB" lemma="sūþan" norm="suthan">sūþan</w>
+      <w id="s-1-w-15" pos="NB" lemma="crist" norm="">-</w>
+      <w id="s-1-w-16" pos="NB" lemma="weard" norm="weard">weard</w>
+      <w id="s-1-w-17" pos="PP" lemma="hit" norm="hit">hit</w>
+      <w id="s-1-w-18" pos="V-" lemma="habban" norm="haefdon">hæfdon</w>
+      <w id="s-1-w-19" pos="NE" lemma="bryttas" norm="Brettas">Brettas</w>
+      <w id="s-1-w-20" pos="NE" lemma="," norm="">,</w>
+      <w id="s-1-w-21" pos="NB" lemma="swā" norm="swa">swā</w>
+      <w id="s-1-w-22" pos="NB" lemma="swā" norm="swa">swā</w>
+      <w id="s-1-w-23" pos="NB" lemma="wē" norm="we">wē</w>
+      <w id="s-1-w-24" pos="NE" lemma="ǣr" norm="aer">ǣr</w>
+      <w id="s-1-w-25" pos="V-" lemma="cweþan" norm="cwaedon">cwǣdon</w>
+      <w id="s-1-w-26" pos="NE" lemma="." norm="">.</w>
+    </s>
+    <s id="s-2" lang="ang">
+      <w id="s-2-w-1" pos="C-" lemma="and" norm="And">And</w>
+      <w id="s-2-w-2" pos="PY" lemma="þā" norm="tha">þā</w>
+      <w id="s-2-w-3" pos="NE" lemma="peohtas" norm="Peohtas">Peohtas</w>
+      <w id="s-2-w-4" pos="PP" lemma="he" norm="him">him</w>
+      <w id="s-2-w-5" pos="V-" lemma="ābǣdon" norm="abaedon">ābǣdon</w>
+      <w id="s-2-w-6" pos="V-" lemma="wif" norm="wif">wīf</w>
+      <w id="s-2-w-7" pos="R-" lemma="æt" norm="aet">æt</w>
+      <w id="s-2-w-8" pos="NE" lemma="scottas" norm="Scottum">Scottum</w>
+      <w id="s-2-w-9" pos="R-" lemma="on" norm="on">on</w>
+      <w id="s-2-w-10" pos="PD" lemma="þā" norm="tha">þā</w>
+      <w id="s-2-w-11" pos="NB" lemma="gerad" norm="gerad">ġerād</w>
+      <w id="s-2-w-12" pos="G-" lemma="þæt" norm="thaet">þæt</w>
+      <w id="s-2-w-13" pos="PP" lemma="hīe" norm="hie">hīe</w>
+      <w id="s-2-w-14" pos="V-" lemma="geceosan" norm="gecuren">ġecuren</w>
+      <w id="s-2-w-15" pos="PS" lemma="hi" norm="hiera">hiera</w>
+      <w id="s-2-w-16" pos="NB" lemma="cyne" norm="cyne">cyne</w>
+      <w id="s-2-w-17" pos="NE" lemma="crist" norm="">-</w>
+      <w id="s-2-w-18" pos="NB" lemma="cynn" norm="cynn">cynn</w>
+      <w id="s-2-w-19" pos="NE" lemma="ā" norm="a">ā</w>
+      <w id="s-2-w-20" pos="R-" lemma="on" norm="on">on</w>
+      <w id="s-2-w-21" pos="PD" lemma="þā" norm="tha">þā</w>
+      <w id="s-2-w-22" pos="NB" lemma="wif" norm="wif">wīf</w>
+      <w id="s-2-w-23" pos="NE" lemma="crist" norm="">-</w>
+      <w id="s-2-w-24" pos="NB" lemma="healf" norm="healfe">healfe</w>
+      <w id="s-2-w-25" pos="NE" lemma="." norm="">.</w>
+    </s>
+    <s id="s-3" lang="ang">
+      <w id="s-3-w-1" pos="PD" lemma="þæt" norm="Thaet">Þæt</w>
+      <w id="s-3-w-2" pos="NB" lemma="hīe" norm="hie">hīe</w>
+      <w id="s-3-w-3" pos="V-" lemma="healdan" norm="heoldon">hēoldon</w>
+      <w id="s-3-w-4" pos="DF" lemma="swā" norm="swa">swā</w>
+      <w id="s-3-w-5" pos="A-" lemma="lange" norm="lange">lange</w>
+      <w id="s-3-w-6" pos="NB" lemma="siððan" norm="siththan">siþþan</w>
+      <w id="s-3-w-7" pos="V-" lemma="." norm="">.</w>
+    </s>
+  </p>
+  <p>
+    <s id="s-1" lang="ang">
+      <w id="s-1-w-1" pos="C-" lemma="and" norm="And">And</w>
+      <w id="s-1-w-2" pos="PD" lemma="þā" norm="tha">þā</w>
+      <w id="s-1-w-3" pos="NB" lemma="gelimpan" norm="gelamp">ġelamp</w>
+      <w id="s-1-w-4" pos="R-" lemma="ymb" norm="ymbe">ymbe</w>
+      <w id="s-1-w-5" pos="NE" lemma="gear" norm="geara">ġēara</w>
+      <w id="s-1-w-6" pos="NB" lemma="ryne" norm="ryne">ryne</w>
+      <w id="s-1-w-7" pos="G-" lemma="þæt" norm="thaet">þæt</w>
+      <w id="s-1-w-8" pos="NE" lemma="Scotta" norm="Scotta">Scotta</w>
+      <w id="s-1-w-9" pos="PY" lemma="sum" norm="sum">sum</w>
+      <w id="s-1-w-10" pos="A-" lemma="dæl" norm="dael">dǣl</w>
+      <w id="s-1-w-11" pos="NB" lemma="gewitan" norm="gewat">ġewāt</w>
+      <w id="s-1-w-12" pos="R-" lemma="of" norm="of">of</w>
+      <w id="s-1-w-13" pos="NE" lemma="Ibernian" norm="Ibernian">Ibernian</w>
+      <w id="s-1-w-14" pos="R-" lemma="on" norm="on">on</w>
+      <w id="s-1-w-15" pos="NE" lemma="Bretene" norm="Bretene">Bretene</w>
+      <w id="s-1-w-16" pos="NB" lemma="," norm="">,</w>
+      <w id="s-1-w-17" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-18" pos="PD" lemma="se" norm="thaes">þæs</w>
+      <w id="s-1-w-19" pos="NB" lemma="land" norm="landes">landes</w>
+      <w id="s-1-w-20" pos="NB" lemma="sum" norm="sumne">sumne</w>
+      <w id="s-1-w-21" pos="NB" lemma="dæl" norm="dael">dǣl</w>
+      <w id="s-1-w-22" pos="V-" lemma="ġeēodon" norm="geeodon">ġeēodon</w>
+      <w id="s-1-w-23" pos="NE" lemma=";" norm="">;</w>
+      <w id="s-1-w-24" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-25" pos="V-" lemma="beon" norm="waes">wæs</w>
+      <w id="s-1-w-26" pos="PS" lemma="hi" norm="hiera">hiera</w>
+      <w id="s-1-w-27" pos="NB" lemma="hęre" norm="here">hęre</w>
+      <w id="s-1-w-28" pos="NE" lemma="crist" norm="">-</w>
+      <w id="s-1-w-29" pos="PY" lemma="togian" norm="toga">toga</w>
+      <w id="s-1-w-30" pos="NE" lemma="Rēoda" norm="Reoda">Rēoda</w>
+      <w id="s-1-w-31" pos="NE" lemma="gehatan" norm="gehaten">ġehāten</w>
+      <w id="s-1-w-32" pos="NE" lemma=":" norm="">:</w>
+      <w id="s-1-w-33" pos="R-" lemma="fram" norm="fram">fram</w>
+      <w id="s-1-w-34" pos="PD" lemma="se" norm="thaem">þæm</w>
+      <w id="s-1-w-35" pos="NB" lemma="hīe" norm="hie">hīe</w>
+      <w id="s-1-w-36" pos="NB" lemma="wesan" norm="sind">sind</w>
+      <w id="s-1-w-37" pos="V-" lemma="ġenęmnede" norm="genemnede">ġenęmnede</w>
+      <w id="s-1-w-38" pos="NE" lemma="Dālrēodi" norm="Dalreodi">Dālrēodi</w>
+      <w id="s-1-w-39" pos="NE" lemma="." norm="">.</w>
+    </s>
+  </p>
+  <p>
+    <s id="s-1" lang="ang">
+      <w id="s-1-w-1" pos="NE" lemma="Anno" norm="Anno">Anno</w>
+      <w id="s-1-w-2" pos="NE" lemma="449" norm="">449</w>
+      <w id="s-1-w-3" pos="NE" lemma="." norm="">.</w>
+    </s>
+    <s id="s-2" lang="ang">
+      <w id="s-2-w-1" pos="DU" lemma="Hēr" norm="Her">Hēr</w>
+      <w id="s-2-w-2" pos="NE" lemma="Martiānus" norm="Martianus">Martiānus</w>
+      <w id="s-2-w-3" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-2-w-4" pos="NE" lemma="Valentīnus" norm="Valentinus">Valentīnus</w>
+      <w id="s-2-w-5" pos="V-" lemma="onfon" norm="onfengon">onfēngon</w>
+      <w id="s-2-w-6" pos="NB" lemma="rice" norm="rice">rīċe</w>
+      <w id="s-2-w-7" pos="NB" lemma="," norm="">,</w>
+      <w id="s-2-w-8" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-2-w-9" pos="V-" lemma="rīċsodon" norm="ricsodon">rīċsodon</w>
+      <w id="s-2-w-10" pos="PY" lemma="seofon" norm="seofon">seofon</w>
+      <w id="s-2-w-11" pos="NB" lemma="winter" norm="winter">winter</w>
+      <w id="s-2-w-12" pos="V-" lemma="." norm="">.</w>
+    </s>
+  </p>
+  <p>
+    <s id="s-1" lang="ang">
+      <w id="s-1-w-1" pos="C-" lemma="and" norm="And">And</w>
+      <w id="s-1-w-2" pos="R-" lemma="on" norm="on">on</w>
+      <w id="s-1-w-3" pos="PS" lemma="hi" norm="hiera">hiera</w>
+      <w id="s-1-w-4" pos="NB" lemma="dæg" norm="dagum">dagum</w>
+      <w id="s-1-w-5" pos="NE" lemma="," norm="">,</w>
+      <w id="s-1-w-6" pos="NE" lemma="Hęnġest" norm="Hengest">Hęnġest</w>
+      <w id="s-1-w-7" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-8" pos="NE" lemma="hors" norm="Horsa">Horsa</w>
+      <w id="s-1-w-9" pos="NB" lemma="," norm="">,</w>
+      <w id="s-1-w-10" pos="R-" lemma="fram" norm="fram">fram</w>
+      <w id="s-1-w-11" pos="NE" lemma="Wyrtġeorne" norm="Wyrtgeorne">Wyrtġeorne</w>
+      <w id="s-1-w-12" pos="V-" lemma="ġelaþode" norm="gelathode">ġelaþode</w>
+      <w id="s-1-w-13" pos="A-" lemma="," norm="">,</w>
+      <w id="s-1-w-14" pos="NE" lemma="Bretta" norm="Bretta">Bretta</w>
+      <w id="s-1-w-15" pos="NB" lemma="cyning" norm="cyninge">cyninge</w>
+      <w id="s-1-w-16" pos="NB" lemma="," norm="">,</w>
+      <w id="s-1-w-17" pos="V-" lemma="gesecan" norm="gesohton">ġesōhton</w>
+      <w id="s-1-w-18" pos="NE" lemma="Bretene" norm="Bretene">Bretene</w>
+      <w id="s-1-w-19" pos="R-" lemma="on" norm="on">on</w>
+      <w id="s-1-w-20" pos="PD" lemma="þǣm" norm="thaem">þǣm</w>
+      <w id="s-1-w-21" pos="NB" lemma="stęde" norm="stede">stęde</w>
+      <w id="s-1-w-22" pos="G-" lemma="þe" norm="the">þe</w>
+      <w id="s-1-w-23" pos="V-" lemma="is" norm="is">is</w>
+      <w id="s-1-w-24" pos="A-" lemma="ġenęmned" norm="genemned">ġenęmned</w>
+      <w id="s-1-w-25" pos="NB" lemma="Ypwines" norm="Ypwines">Ypwines</w>
+      <w id="s-1-w-26" pos="NB" lemma="crist" norm="">-</w>
+      <w id="s-1-w-27" pos="V-" lemma="fleotan" norm="fleot">flēot</w>
+      <w id="s-1-w-28" pos="NE" lemma="," norm="">,</w>
+      <w id="s-1-w-29" pos="NE" lemma="ǣrest" norm="aerest">ǣrest</w>
+      <w id="s-1-w-30" pos="NE" lemma="bryttas" norm="Brettum">Brettum</w>
+      <w id="s-1-w-31" pos="NB" lemma="tō" norm="to">tō</w>
+      <w id="s-1-w-32" pos="PY" lemma="fultum" norm="fultume">fultume</w>
+      <w id="s-1-w-33" pos="NE" lemma="," norm="">,</w>
+      <w id="s-1-w-34" pos="C-" lemma="ac" norm="ac">ac</w>
+      <w id="s-1-w-35" pos="PI" lemma="hīe" norm="hie">hīe</w>
+      <w id="s-1-w-36" pos="DF" lemma="eft" norm="eft">eft</w>
+      <w id="s-1-w-37" pos="R-" lemma="on" norm="on">on</w>
+      <w id="s-1-w-38" pos="NB" lemma="hīe" norm="hie">hīe</w>
+      <w id="s-1-w-39" pos="V-" lemma="feohtan" norm="fuhton">fuhton</w>
+      <w id="s-1-w-40" pos="NE" lemma="." norm="">.</w>
+    </s>
+  </p>
+  <p>
+    <s id="s-1" lang="ang">
+      <w id="s-1-w-1" pos="PD" lemma="se" norm="Se">Se</w>
+      <w id="s-1-w-2" pos="NB" lemma="cyning" norm="cyning">cyning</w>
+      <w id="s-1-w-3" pos="V-" lemma="hatan" norm="het">hēt</w>
+      <w id="s-1-w-4" pos="NB" lemma="hīe" norm="hie">hīe</w>
+      <w id="s-1-w-5" pos="DF" lemma="feohtan" norm="feohtan">feohtan</w>
+      <w id="s-1-w-6" pos="V-" lemma="onġēan" norm="ongean">onġēan</w>
+      <w id="s-1-w-7" pos="NE" lemma="peohtas" norm="Peohtas">Peohtas</w>
+      <w id="s-1-w-8" pos="NE" lemma=";" norm="">;</w>
+      <w id="s-1-w-9" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-10" pos="A-" lemma="hīe" norm="hie">hīe</w>
+      <w id="s-1-w-11" pos="NB" lemma="swā" norm="swa">swā</w>
+      <w id="s-1-w-12" pos="V-" lemma="don" norm="dydon">dydon</w>
+      <w id="s-1-w-13" pos="NE" lemma="," norm="">,</w>
+      <w id="s-1-w-14" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-15" pos="A-" lemma="sige" norm="sige">siġe</w>
+      <w id="s-1-w-16" pos="V-" lemma="habban" norm="haefdon">hæfdon</w>
+      <w id="s-1-w-17" pos="PY" lemma="swā" norm="swa">swā</w>
+      <w id="s-1-w-18" pos="NB" lemma="hwǣr" norm="hwaer">hwǣr</w>
+      <w id="s-1-w-19" pos="NB" lemma="swā" norm="swa">swā</w>
+      <w id="s-1-w-20" pos="NB" lemma="hīe" norm="hie">hīe</w>
+      <w id="s-1-w-21" pos="NB" lemma="cuman" norm="comon">cōmon</w>
+      <w id="s-1-w-22" pos="NE" lemma="." norm="">.</w>
+    </s>
+    <s id="s-2" lang="ang">
+      <w id="s-2-w-1" pos="DU" lemma="Hīe" norm="Hie">Hīe</w>
+      <w id="s-2-w-2" pos="DF" lemma="þā" norm="tha">þā</w>
+      <w id="s-2-w-3" pos="V-" lemma="sęndon" norm="sendon">sęndon</w>
+      <w id="s-2-w-4" pos="PY" lemma="tō" norm="to">tō</w>
+      <w id="s-2-w-5" pos="NE" lemma="Angle" norm="Angle">Angle</w>
+      <w id="s-2-w-6" pos="NB" lemma="," norm="">,</w>
+      <w id="s-2-w-7" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-2-w-8" pos="V-" lemma="hatan" norm="heton">hēton</w>
+      <w id="s-2-w-9" pos="PP" lemma="he" norm="him">him</w>
+      <w id="s-2-w-10" pos="V-" lemma="sęndan" norm="sendan">sęndan</w>
+      <w id="s-2-w-11" pos="PY" lemma="māran" norm="maran">māran</w>
+      <w id="s-2-w-12" pos="NB" lemma="fultum" norm="fultum">fultum</w>
+      <w id="s-2-w-13" pos="NB" lemma=";" norm="">;</w>
+      <w id="s-2-w-14" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-2-w-15" pos="V-" lemma="hatan" norm="heton">hēton</w>
+      <w id="s-2-w-16" pos="PP" lemma="he" norm="him">him</w>
+      <w id="s-2-w-17" pos="NB" lemma="sęċġan" norm="secgan">sęċġan</w>
+      <w id="s-2-w-18" pos="NE" lemma="Bret" norm="Bret">Bret</w>
+      <w id="s-2-w-19" pos="NE" lemma="crist" norm="">-</w>
+      <w id="s-2-w-20" pos="NB" lemma="wēala" norm="weala">wēala</w>
+      <w id="s-2-w-21" pos="NB" lemma="nāhtnesse" norm="nahtnesse">nāhtnesse</w>
+      <w id="s-2-w-22" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-2-w-23" pos="PD" lemma="se" norm="thaes">þæs</w>
+      <w id="s-2-w-24" pos="NB" lemma="land" norm="landes">landes</w>
+      <w id="s-2-w-25" pos="NB" lemma="cyst" norm="cysta">cysta</w>
+      <w id="s-2-w-26" pos="NB" lemma="." norm="">.</w>
+    </s>
+    <s id="s-3" lang="ang">
+      <w id="s-3-w-1" pos="DU" lemma="Hīe" norm="Hie">Hīe</w>
+      <w id="s-3-w-2" pos="DF" lemma="þā" norm="tha">þā</w>
+      <w id="s-3-w-3" pos="V-" lemma="sęndon" norm="sendon">sęndon</w>
+      <w id="s-3-w-4" pos="PP" lemma="he" norm="him">him</w>
+      <w id="s-3-w-5" pos="R-" lemma="māran" norm="maran">māran</w>
+      <w id="s-3-w-6" pos="NB" lemma="fultum" norm="fultum">fultum</w>
+      <w id="s-3-w-7" pos="V-" lemma="." norm="">.</w>
+    </s>
+    <s id="s-4" lang="ang">
+      <w id="s-4-w-1" pos="DF" lemma="Þā" norm="Tha">Þā</w>
+      <w id="s-4-w-2" pos="V-" lemma="cuman" norm="comon">cōmon</w>
+      <w id="s-4-w-3" pos="PD" lemma="þā" norm="tha">þā</w>
+      <w id="s-4-w-4" pos="NB" lemma="męnn" norm="menn">męnn</w>
+      <w id="s-4-w-5" pos="R-" lemma="of" norm="of">of</w>
+      <w id="s-4-w-6" pos="PY" lemma="þri" norm="thrim">þrim</w>
+      <w id="s-4-w-7" pos="NB" lemma="mægþ" norm="maegthum">mǣġþum</w>
+      <w id="s-4-w-8" pos="V-" lemma="Ġermānie" norm="Germanie">Ġermānie</w>
+      <w id="s-4-w-9" pos="NE" lemma=":" norm="">:</w>
+      <w id="s-4-w-10" pos="R-" lemma="of" norm="of">of</w>
+      <w id="s-4-w-11" pos="NE" lemma="eald" norm="Eald">Eald</w>
+      <w id="s-4-w-12" pos="NB" lemma="crist" norm="">-</w>
+      <w id="s-4-w-13" pos="NB" lemma="seaxe" norm="seaxum">seaxum</w>
+      <w id="s-4-w-14" pos="NB" lemma="," norm="">,</w>
+      <w id="s-4-w-15" pos="R-" lemma="of" norm="of">of</w>
+      <w id="s-4-w-16" pos="NE" lemma="Ęnġlum" norm="Ęnglum">Ęnġlum</w>
+      <w id="s-4-w-17" pos="NB" lemma="," norm="">,</w>
+      <w id="s-4-w-18" pos="R-" lemma="of" norm="of">of</w>
+      <w id="s-4-w-19" pos="NE" lemma="Īotum" norm="Iotum">Īotum</w>
+      <w id="s-4-w-20" pos="NB" lemma="." norm="">.</w>
+    </s>
+  </p>
+  <p>
+    <s id="s-1" lang="ang">
+      <w id="s-1-w-1" pos="R-" lemma="of" norm="Of">Of</w>
+      <w id="s-1-w-2" pos="NE" lemma="Īotum" norm="Iotum">Īotum</w>
+      <w id="s-1-w-3" pos="NB" lemma="cuman" norm="comon">cōmon</w>
+      <w id="s-1-w-4" pos="NE" lemma="Cant" norm="Cant">Cant</w>
+      <w id="s-1-w-5" pos="NE" lemma="crist" norm="">-</w>
+      <w id="s-1-w-6" pos="NB" lemma="waru" norm="ware">ware</w>
+      <w id="s-1-w-7" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-8" pos="NE" lemma="wiht" norm="Wiht">Wiht</w>
+      <w id="s-1-w-9" pos="NB" lemma="crist" norm="">-</w>
+      <w id="s-1-w-10" pos="NB" lemma="waru" norm="ware">ware</w>
+      <w id="s-1-w-11" pos="F-" lemma="fearr" norm="">—</w>
+      <w id="s-1-w-12" pos="PD" lemma="þæt" norm="thaet">þæt</w>
+      <w id="s-1-w-13" pos="V-" lemma="is" norm="is">is</w>
+      <w id="s-1-w-14" pos="NB" lemma="seo" norm="seo">sēo</w>
+      <w id="s-1-w-15" pos="NB" lemma="mægþ" norm="maegth">mǣġþ</w>
+      <w id="s-1-w-16" pos="G-" lemma="þe" norm="the">þe</w>
+      <w id="s-1-w-17" pos="A-" lemma="nū" norm="nu">nū</w>
+      <w id="s-1-w-18" pos="NB" lemma="eardian" norm="eardath">eardaþ</w>
+      <w id="s-1-w-19" pos="R-" lemma="on" norm="on">on</w>
+      <w id="s-1-w-20" pos="NE" lemma="wiht" norm="Wiht">Wiht</w>
+      <w id="s-1-w-21" pos="NB" lemma="fearr" norm="">—</w>
+      <w id="s-1-w-22" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-23" pos="PD" lemma="þæt" norm="thaet">þæt</w>
+      <w id="s-1-w-24" pos="NB" lemma="cynn" norm="cynn">cynn</w>
+      <w id="s-1-w-25" pos="R-" lemma="on" norm="on">on</w>
+      <w id="s-1-w-26" pos="NE" lemma="west" norm="West">West</w>
+      <w id="s-1-w-27" pos="NB" lemma="crist" norm="">-</w>
+      <w id="s-1-w-28" pos="NB" lemma="seaxe" norm="seaxum">seaxum</w>
+      <w id="s-1-w-29" pos="G-" lemma="þe" norm="the">þe</w>
+      <w id="s-1-w-30" pos="NB" lemma="man" norm="man">man</w>
+      <w id="s-1-w-31" pos="DF" lemma="nūġiet" norm="nugiet">nūġiet</w>
+      <w id="s-1-w-32" pos="DF" lemma="hatan" norm="haett">hǣtt</w>
+      <w id="s-1-w-33" pos="NB" lemma="'" norm="">'</w>
+      <w id="s-1-w-34" pos="NB" lemma="Īotena" norm="Iotena">Īotena</w>
+      <w id="s-1-w-35" pos="NB" lemma="cynn" norm="cynn">cynn</w>
+      <w id="s-1-w-36" pos="V-" lemma=".'" norm="">.'</w>
+    </s>
+    <s id="s-2" lang="ang">
+      <w id="s-2-w-1" pos="R-" lemma="of" norm="Of">Of</w>
+      <w id="s-2-w-2" pos="NE" lemma="eald" norm="Eald">Eald</w>
+      <w id="s-2-w-3" pos="NB" lemma="crist" norm="">-</w>
+      <w id="s-2-w-4" pos="NB" lemma="seaxe" norm="seaxum">seaxum</w>
+      <w id="s-2-w-5" pos="NB" lemma="cuman" norm="comon">cōmon</w>
+      <w id="s-2-w-6" pos="NE" lemma="east" norm="East">Ēast</w>
+      <w id="s-2-w-7" pos="NE" lemma="crist" norm="">-</w>
+      <w id="s-2-w-8" pos="NB" lemma="seaxe" norm="seaxe">seaxe</w>
+      <w id="s-2-w-9" pos="NB" lemma="," norm="">,</w>
+      <w id="s-2-w-10" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-2-w-11" pos="NE" lemma="Sūþ" norm="Suth">Sūþ</w>
+      <w id="s-2-w-12" pos="NB" lemma="crist" norm="">-</w>
+      <w id="s-2-w-13" pos="A-" lemma="seaxe" norm="seaxe">seaxe</w>
+      <w id="s-2-w-14" pos="NB" lemma="," norm="">,</w>
+      <w id="s-2-w-15" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-2-w-16" pos="NE" lemma="west" norm="West">West</w>
+      <w id="s-2-w-17" pos="NB" lemma="crist" norm="">-</w>
+      <w id="s-2-w-18" pos="A-" lemma="seaxe" norm="seaxe">seaxe</w>
+      <w id="s-2-w-19" pos="NE" lemma="." norm="">.</w>
+    </s>
+    <s id="s-3" lang="ang">
+      <w id="s-3-w-1" pos="R-" lemma="of" norm="Of">Of</w>
+      <w id="s-3-w-2" pos="NE" lemma="Angle" norm="Angle">Angle</w>
+      <w id="s-3-w-3" pos="NB" lemma="cuman" norm="comon">cōmon</w>
+      <w id="s-3-w-4" pos="NE" lemma="fearr" norm="">—</w>
+      <w id="s-3-w-5" pos="NB" lemma="sē" norm="se">sē</w>
+      <w id="s-3-w-6" pos="NE" lemma="ā" norm="a">ā</w>
+      <w id="s-3-w-7" pos="DF" lemma="siððan" norm="siththan">siþþan</w>
+      <w id="s-3-w-8" pos="A-" lemma="standan" norm="stod">stōd</w>
+      <w id="s-3-w-9" pos="NB" lemma="wēste" norm="weste">wēste</w>
+      <w id="s-3-w-10" pos="R-" lemma="betwix" norm="betwix">betwix</w>
+      <w id="s-3-w-11" pos="NB" lemma="Īotum" norm="Iotum">Īotum</w>
+      <w id="s-3-w-12" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-3-w-13" pos="NE" lemma="seaxe" norm="Seaxum">Seaxum</w>
+      <w id="s-3-w-14" pos="NB" lemma="fearr" norm="">—</w>
+      <w id="s-3-w-15" pos="NB" lemma="east" norm="East">Ēast</w>
+      <w id="s-3-w-16" pos="NE" lemma="crist" norm="">-</w>
+      <w id="s-3-w-17" pos="NE" lemma="ęnġle" norm="engle">ęnġle</w>
+      <w id="s-3-w-18" pos="NE" lemma="," norm="">,</w>
+      <w id="s-3-w-19" pos="NE" lemma="middel" norm="Middel">Middel</w>
+      <w id="s-3-w-20" pos="NE" lemma="crist" norm="">-</w>
+      <w id="s-3-w-21" pos="NE" lemma="ęnġle" norm="engle">ęnġle</w>
+      <w id="s-3-w-22" pos="NE" lemma="," norm="">,</w>
+      <w id="s-3-w-23" pos="NE" lemma="Mierċe" norm="Mierce">Mierċe</w>
+      <w id="s-3-w-24" pos="NB" lemma="," norm="">,</w>
+      <w id="s-3-w-25" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-3-w-26" pos="PY" lemma="ealle" norm="ealle">ealle</w>
+      <w id="s-3-w-27" pos="NE" lemma="norþan-hymbre" norm="Northhymbre">Norþhymbre</w>
+      <w id="s-3-w-28" pos="NE" lemma="." norm="">.</w>
+    </s>
+    <s id="s-4" lang="ang">
+      <w id="s-4-w-1" pos="V-" lemma="455" norm="">455</w>
+      <w id="s-4-w-2" pos="NE" lemma="." norm="">.</w>
+    </s>
+    <s id="s-5" lang="ang">
+      <w id="s-5-w-1" pos="DU" lemma="Hēr" norm="Her">Hēr</w>
+      <w id="s-5-w-2" pos="NE" lemma="Hęnġest" norm="Hengest">Hęnġest</w>
+      <w id="s-5-w-3" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-5-w-4" pos="NE" lemma="hors" norm="Horsa">Horsa</w>
+      <w id="s-5-w-5" pos="V-" lemma="feohtan" norm="fuhton">fuhton</w>
+      <w id="s-5-w-6" pos="R-" lemma="wiþ" norm="with">wiþ</w>
+      <w id="s-5-w-7" pos="NE" lemma="Wyrtġeorne" norm="Wyrtgeorne">Wyrtġeorne</w>
+      <w id="s-5-w-8" pos="PD" lemma="þǣm" norm="thaem">þǣm</w>
+      <w id="s-5-w-9" pos="NB" lemma="cyning" norm="cyninge">cyninge</w>
+      <w id="s-5-w-10" pos="DF" lemma="in" norm="in">in</w>
+      <w id="s-5-w-11" pos="PD" lemma="þǣre" norm="thaere">þǣre</w>
+      <w id="s-5-w-12" pos="NB" lemma="stow" norm="stowe">stōwe</w>
+      <w id="s-5-w-13" pos="G-" lemma="þe" norm="the">þe</w>
+      <w id="s-5-w-14" pos="V-" lemma="is" norm="is">is</w>
+      <w id="s-5-w-15" pos="V-" lemma="cweþan" norm="gecweden">ġecweden</w>
+      <w id="s-5-w-16" pos="NE" lemma="Æġles" norm="AEgles">Æġles</w>
+      <w id="s-5-w-17" pos="NE" lemma="crist" norm="">-</w>
+      <w id="s-5-w-18" pos="NB" lemma="þrep" norm="threp">þrep</w>
+      <w id="s-5-w-19" pos="NB" lemma=";" norm="">;</w>
+      <w id="s-5-w-20" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-5-w-21" pos="PS" lemma="he" norm="his">his</w>
+      <w id="s-5-w-22" pos="NB" lemma="broþor" norm="brothor">brōþor</w>
+      <w id="s-5-w-23" pos="NE" lemma="hors" norm="Horsan">Horsan</w>
+      <w id="s-5-w-24" pos="NB" lemma="man" norm="man">man</w>
+      <w id="s-5-w-25" pos="V-" lemma="ofslōg" norm="ofslog">ofslōg</w>
+      <w id="s-5-w-26" pos="NE" lemma="." norm="">.</w>
+    </s>
+    <s id="s-6" lang="ang">
+      <w id="s-6-w-1" pos="C-" lemma="and" norm="And">And</w>
+      <w id="s-6-w-2" pos="R-" lemma="æfter" norm="aefter">æfter</w>
+      <w id="s-6-w-3" pos="PD" lemma="þǣm" norm="thaem">þǣm</w>
+      <w id="s-6-w-4" pos="NE" lemma="Hęnġest" norm="Hengest">Hęnġest</w>
+      <w id="s-6-w-5" pos="NB" lemma="fon" norm="feng">fēng</w>
+      <w id="s-6-w-6" pos="PY" lemma="tō" norm="to">tō</w>
+      <w id="s-6-w-7" pos="NB" lemma="rice" norm="rice">rīċe</w>
+      <w id="s-6-w-8" pos="NB" lemma="," norm="">,</w>
+      <w id="s-6-w-9" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-6-w-10" pos="NE" lemma="æsc" norm="AEsc">Æsc</w>
+      <w id="s-6-w-11" pos="PS" lemma="he" norm="his">his</w>
+      <w id="s-6-w-12" pos="NB" lemma="sunu" norm="sunu">sunu</w>
+      <w id="s-6-w-13" pos="NE" lemma="." norm="">.</w>
+    </s>
+  </p>
+  <p>
+    <s id="s-1" lang="ang">
+      <w id="s-1-w-1" pos="V-" lemma="457" norm="">457</w>
+      <w id="s-1-w-2" pos="NE" lemma="." norm="">.</w>
+    </s>
+    <s id="s-2" lang="ang">
+      <w id="s-2-w-1" pos="DU" lemma="Hēr" norm="Her">Hēr</w>
+      <w id="s-2-w-2" pos="NE" lemma="Hęnġest" norm="Hengest">Hęnġest</w>
+      <w id="s-2-w-3" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-2-w-4" pos="NE" lemma="æsc" norm="AEsc">Æsc</w>
+      <w id="s-2-w-5" pos="V-" lemma="feohtan" norm="fuhton">fuhton</w>
+      <w id="s-2-w-6" pos="R-" lemma="wiþ" norm="with">wiþ</w>
+      <w id="s-2-w-7" pos="NE" lemma="bryttas" norm="Brettas">Brettas</w>
+      <w id="s-2-w-8" pos="DF" lemma="in" norm="in">in</w>
+      <w id="s-2-w-9" pos="PD" lemma="þǣre" norm="thaere">þǣre</w>
+      <w id="s-2-w-10" pos="NB" lemma="stow" norm="stowe">stōwe</w>
+      <w id="s-2-w-11" pos="G-" lemma="þe" norm="the">þe</w>
+      <w id="s-2-w-12" pos="V-" lemma="is" norm="is">is</w>
+      <w id="s-2-w-13" pos="V-" lemma="cweþan" norm="gecweden">ġecweden</w>
+      <w id="s-2-w-14" pos="NE" lemma="Cręċġan" norm="Crecgan">Cręċġan</w>
+      <w id="s-2-w-15" pos="NE" lemma="crist" norm="">-</w>
+      <w id="s-2-w-16" pos="NB" lemma="ford" norm="ford">ford</w>
+      <w id="s-2-w-17" pos="NB" lemma="," norm="">,</w>
+      <w id="s-2-w-18" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-2-w-19" pos="PD" lemma="þǣr" norm="thaer">þǣr</w>
+      <w id="s-2-w-20" pos="V-" lemma="ofslōgon" norm="ofslogon">ofslōgon</w>
+      <w id="s-2-w-21" pos="NB" lemma="fēower" norm="feower">fēower</w>
+      <w id="s-2-w-22" pos="NB" lemma="þūsend" norm="thusend">þūsend</w>
+      <w id="s-2-w-23" pos="NB" lemma="wer" norm="wera">wera</w>
+      <w id="s-2-w-24" pos="V-" lemma="." norm="">.</w>
+    </s>
+    <s id="s-3" lang="ang">
+      <w id="s-3-w-1" pos="C-" lemma="and" norm="And">And</w>
+      <w id="s-3-w-2" pos="PD" lemma="þā" norm="tha">þā</w>
+      <w id="s-3-w-3" pos="NE" lemma="bryttas" norm="Brettas">Brettas</w>
+      <w id="s-3-w-4" pos="DF" lemma="þā" norm="tha">þā</w>
+      <w id="s-3-w-5" pos="V-" lemma="forlætan" norm="forleton">forlēton</w>
+      <w id="s-3-w-6" pos="NE" lemma="Cęnt" norm="Cent">Cęnt</w>
+      <w id="s-3-w-7" pos="NE" lemma="crist" norm="">-</w>
+      <w id="s-3-w-8" pos="NB" lemma="land" norm="land">land</w>
+      <w id="s-3-w-9" pos="V-" lemma="," norm="">,</w>
+      <w id="s-3-w-10" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-3-w-11" pos="R-" lemma="mid" norm="mid">mid</w>
+      <w id="s-3-w-12" pos="NB" lemma="miċle" norm="micle">miċle</w>
+      <w id="s-3-w-13" pos="NB" lemma="ęġe" norm="ege">ęġe</w>
+      <w id="s-3-w-14" pos="V-" lemma="fleon" norm="flugon">flugon</w>
+      <w id="s-3-w-15" pos="V-" lemma="tō" norm="to">tō</w>
+      <w id="s-3-w-16" pos="NE" lemma="lunden" norm="Lunden">Lunden</w>
+      <w id="s-3-w-17" pos="NE" lemma="crist" norm="">-</w>
+      <w id="s-3-w-18" pos="NB" lemma="burg" norm="byrig">byriġ</w>
+      <w id="s-3-w-19" pos="NE" lemma="." norm="">.</w>
+    </s>
+  </p>
+  <p>
+    <s id="s-1" lang="ang">
+      <w id="s-1-w-1" pos="V-" lemma="473" norm="">473</w>
+      <w id="s-1-w-2" pos="NE" lemma="." norm="">.</w>
+    </s>
+    <s id="s-2" lang="ang">
+      <w id="s-2-w-1" pos="DU" lemma="Hēr" norm="Her">Hēr</w>
+      <w id="s-2-w-2" pos="NE" lemma="Henġest" norm="Hengest">Henġest</w>
+      <w id="s-2-w-3" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-2-w-4" pos="NE" lemma="æsc" norm="AEsc">Æsc</w>
+      <w id="s-2-w-5" pos="V-" lemma="gefeohtan" norm="gefuhton">ġefuhton</w>
+      <w id="s-2-w-6" pos="R-" lemma="wiþ" norm="with">wiþ</w>
+      <w id="s-2-w-7" pos="NE" lemma="Wēalas" norm="Wealas">Wēalas</w>
+      <w id="s-2-w-8" pos="NB" lemma="," norm="">,</w>
+      <w id="s-2-w-9" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-2-w-10" pos="NE" lemma="geniman" norm="genamon">ġenāmon</w>
+      <w id="s-2-w-11" pos="A-" lemma="un" norm="un">un</w>
+      <w id="s-2-w-12" pos="NE" lemma="crist" norm="">-</w>
+      <w id="s-2-w-13" pos="NE" lemma="ārīmedlicu" norm="arimedlicu">ārīmedlicu</w>
+      <w id="s-2-w-14" pos="NB" lemma="hęre" norm="here">hęre</w>
+      <w id="s-2-w-15" pos="NE" lemma="crist" norm="">-</w>
+      <w id="s-2-w-16" pos="NB" lemma="rēaf" norm="reaf">rēaf</w>
+      <w id="s-2-w-17" pos="NB" lemma="," norm="">,</w>
+      <w id="s-2-w-18" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-2-w-19" pos="PD" lemma="þā" norm="tha">þā</w>
+      <w id="s-2-w-20" pos="NE" lemma="Wēalas" norm="Wealas">Wēalas</w>
+      <w id="s-2-w-21" pos="V-" lemma="fleon" norm="flugon">flugon</w>
+      <w id="s-2-w-22" pos="NB" lemma="þā" norm="tha">þā</w>
+      <w id="s-2-w-23" pos="NE" lemma="Ęnġle" norm="Ęngle">Ęnġle</w>
+      <w id="s-2-w-24" pos="NB" lemma="swā" norm="swa">swā</w>
+      <w id="s-2-w-25" pos="NB" lemma="swā" norm="swa">swā</w>
+      <w id="s-2-w-26" pos="V-" lemma="fȳr" norm="fȳr">fȳr</w>
+      <w id="s-2-w-27" pos="NE" lemma="." norm="">.</w>
+    </s>
+  </p>
+  <p>
+    <s id="s-1" lang="ang">
+      <w id="s-1-w-1" pos="V-" lemma="787" norm="">787</w>
+      <w id="s-1-w-2" pos="NE" lemma="." norm="">.</w>
+    </s>
+    <s id="s-2" lang="ang">
+      <w id="s-2-w-1" pos="DU" lemma="Hēr" norm="Her">Hēr</w>
+      <w id="s-2-w-2" pos="V-" lemma="niman" norm="nam">nam</w>
+      <w id="s-2-w-3" pos="NE" lemma="Beorht" norm="Beorht">Beorht</w>
+      <w id="s-2-w-4" pos="NE" lemma="crist" norm="">-</w>
+      <w id="s-2-w-5" pos="NB" lemma="rīċ" norm="ric">rīċ</w>
+      <w id="s-2-w-6" pos="NB" lemma="cyning" norm="cyning">cyning</w>
+      <w id="s-2-w-7" pos="NE" lemma="offa" norm="Offan">Offan</w>
+      <w id="s-2-w-8" pos="NB" lemma="dohtor" norm="dohtor">dohtor</w>
+      <w id="s-2-w-9" pos="NE" lemma="ead" norm="Ead">Ēad</w>
+      <w id="s-2-w-10" pos="NE" lemma="crist" norm="">-</w>
+      <w id="s-2-w-11" pos="NB" lemma="burg" norm="burge">burge</w>
+      <w id="s-2-w-12" pos="NE" lemma="." norm="">.</w>
+    </s>
+    <s id="s-3" lang="ang">
+      <w id="s-3-w-1" pos="C-" lemma="and" norm="And">And</w>
+      <w id="s-3-w-2" pos="R-" lemma="on" norm="on">on</w>
+      <w id="s-3-w-3" pos="PS" lemma="he" norm="his">his</w>
+      <w id="s-3-w-4" pos="NB" lemma="dæg" norm="dagum">dagum</w>
+      <w id="s-3-w-5" pos="NB" lemma="cuman" norm="comon">cōmon</w>
+      <w id="s-3-w-6" pos="NE" lemma="ǣrest" norm="aerest">ǣrest</w>
+      <w id="s-3-w-7" pos="NB" lemma="þrēo" norm="threo">þrēo</w>
+      <w id="s-3-w-8" pos="NB" lemma="scip" norm="scipu">sċipu</w>
+      <w id="s-3-w-9" pos="NB" lemma=";" norm="">;</w>
+      <w id="s-3-w-10" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-3-w-11" pos="G-" lemma="þā" norm="tha">þā</w>
+      <w id="s-3-w-12" pos="PD" lemma="se" norm="se">se</w>
+      <w id="s-3-w-13" pos="A-" lemma="gerefa" norm="gerefa">ġerēfa</w>
+      <w id="s-3-w-14" pos="PD" lemma="þǣr" norm="thaer">þǣr</w>
+      <w id="s-3-w-15" pos="PY" lemma="tō" norm="to">tō</w>
+      <w id="s-3-w-16" pos="NB" lemma="ridan" norm="rad">rād</w>
+      <w id="s-3-w-17" pos="NB" lemma="," norm="">,</w>
+      <w id="s-3-w-18" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-3-w-19" pos="A-" lemma="hīe" norm="hie">hīe</w>
+      <w id="s-3-w-20" pos="V-" lemma="willan" norm="wolde">wolde</w>
+      <w id="s-3-w-21" pos="NB" lemma="drifan" norm="drifan">drīfan</w>
+      <w id="s-3-w-22" pos="NB" lemma="tō" norm="to">tō</w>
+      <w id="s-3-w-23" pos="PD" lemma="se" norm="thaes">þæs</w>
+      <w id="s-3-w-24" pos="NB" lemma="cyning" norm="cyninges">cyninges</w>
+      <w id="s-3-w-25" pos="NB" lemma="tun" norm="tune">tūne</w>
+      <w id="s-3-w-26" pos="NE" lemma="," norm="">,</w>
+      <w id="s-3-w-27" pos="NB" lemma="þȳ" norm="thȳ">þȳ</w>
+      <w id="s-3-w-28" pos="A-" lemma="hē" norm="he">hē</w>
+      <w id="s-3-w-29" pos="PY" lemma="nytan" norm="nyste">nyste</w>
+      <w id="s-3-w-30" pos="PI" lemma="hwæt" norm="hwaet">hwæt</w>
+      <w id="s-3-w-31" pos="DF" lemma="hīe" norm="hie">hīe</w>
+      <w id="s-3-w-32" pos="V-" lemma="beon" norm="waeron">wǣron</w>
+      <w id="s-3-w-33" pos="NE" lemma=";" norm="">;</w>
+      <w id="s-3-w-34" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-3-w-35" pos="PP" lemma="he" norm="hine">hine</w>
+      <w id="s-3-w-36" pos="PX" lemma="man" norm="man">man</w>
+      <w id="s-3-w-37" pos="V-" lemma="ofslōg" norm="ofslog">ofslōg</w>
+      <w id="s-3-w-38" pos="NE" lemma="." norm="">.</w>
+    </s>
+    <s id="s-4" lang="ang">
+      <w id="s-4-w-1" pos="PD" lemma="þæt" norm="Thaet">Þæt</w>
+      <w id="s-4-w-2" pos="NB" lemma="beon" norm="waeron">wǣron</w>
+      <w id="s-4-w-3" pos="PD" lemma="þā" norm="tha">þā</w>
+      <w id="s-4-w-4" pos="A-" lemma="ǣrestan" norm="aerestan">ǣrestan</w>
+      <w id="s-4-w-5" pos="NB" lemma="scip" norm="scipu">sċipu</w>
+      <w id="s-4-w-6" pos="A-" lemma="Dęniscra" norm="Deniscra">Dęniscra</w>
+      <w id="s-4-w-7" pos="NB" lemma="mann" norm="manna">manna</w>
+      <w id="s-4-w-8" pos="G-" lemma="þe" norm="the">þe</w>
+      <w id="s-4-w-9" pos="NE" lemma="Angel" norm="Angel">Angel</w>
+      <w id="s-4-w-10" pos="V-" lemma="crist" norm="">-</w>
+      <w id="s-4-w-11" pos="NB" lemma="cynn" norm="cynnes">cynnes</w>
+      <w id="s-4-w-12" pos="NB" lemma="land" norm="land">land</w>
+      <w id="s-4-w-13" pos="V-" lemma="gesecan" norm="gesohton">ġesōhton</w>
+      <w id="s-4-w-14" pos="NE" lemma="." norm="">.</w>
+    </s>
+  </p>
+  <p>
+    <s id="s-1" lang="ang">
+      <w id="s-1-w-1" pos="V-" lemma="851" norm="">851</w>
+      <w id="s-1-w-2" pos="NE" lemma="." norm="">.</w>
+    </s>
+    <s id="s-2" lang="ang">
+      <w id="s-2-w-1" pos="DU" lemma="Hēr" norm="Her">Hēr</w>
+      <w id="s-2-w-2" pos="A-" lemma="ceorl" norm="Ceorl">Ċeorl</w>
+      <w id="s-2-w-3" pos="NB" lemma="ealdor" norm="ealdor">ealdor</w>
+      <w id="s-2-w-4" pos="A-" lemma="crist" norm="">-</w>
+      <w id="s-2-w-5" pos="NB" lemma="mann" norm="mann">mann</w>
+      <w id="s-2-w-6" pos="NE" lemma="gefeohtan" norm="gefeaht">ġefeaht</w>
+      <w id="s-2-w-7" pos="R-" lemma="wiþ" norm="with">wiþ</w>
+      <w id="s-2-w-8" pos="NB" lemma="hǣþne" norm="haethne">hǣþne</w>
+      <w id="s-2-w-9" pos="NB" lemma="męnn" norm="menn">męnn</w>
+      <w id="s-2-w-10" pos="R-" lemma="mid" norm="mid">mid</w>
+      <w id="s-2-w-11" pos="NE" lemma="Defena" norm="Defena">Defena</w>
+      <w id="s-2-w-12" pos="NB" lemma="crist" norm="">-</w>
+      <w id="s-2-w-13" pos="NB" lemma="scir" norm="scire">sċīre</w>
+      <w id="s-2-w-14" pos="R-" lemma="æt" norm="aet">æt</w>
+      <w id="s-2-w-15" pos="NE" lemma="Wiċġan" norm="Wicgan">Wiċġan</w>
+      <w id="s-2-w-16" pos="NB" lemma="crist" norm="">-</w>
+      <w id="s-2-w-17" pos="V-" lemma="beorgan" norm="beorge">beorge</w>
+      <w id="s-2-w-18" pos="NE" lemma="," norm="">,</w>
+      <w id="s-2-w-19" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-2-w-20" pos="PD" lemma="þǣr" norm="thaer">þǣr</w>
+      <w id="s-2-w-21" pos="NB" lemma="micel" norm="micel">miċel</w>
+      <w id="s-2-w-22" pos="NB" lemma="wel" norm="wael">wæl</w>
+      <w id="s-2-w-23" pos="V-" lemma="geslean" norm="geslogon">ġeslōgon</w>
+      <w id="s-2-w-24" pos="NE" lemma="," norm="">,</w>
+      <w id="s-2-w-25" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-2-w-26" pos="A-" lemma="sige" norm="sige">siġe</w>
+      <w id="s-2-w-27" pos="PX" lemma="niman" norm="namon">nāmon</w>
+      <w id="s-2-w-28" pos="NE" lemma="." norm="">.</w>
+    </s>
+  </p>
+  <p>
+    <s id="s-1" lang="ang">
+      <w id="s-1-w-1" pos="C-" lemma="and" norm="And">And</w>
+      <w id="s-1-w-2" pos="PD" lemma="þȳ" norm="thȳ">þȳ</w>
+      <w id="s-1-w-3" pos="A-" lemma="ilca" norm="ilcan">ilcan</w>
+      <w id="s-1-w-4" pos="NB" lemma="gear" norm="geare">ġēare</w>
+      <w id="s-1-w-5" pos="NE" lemma="Æþelstān" norm="AEthelstan">Æþelstān</w>
+      <w id="s-1-w-6" pos="NB" lemma="cyning" norm="cyning">cyning</w>
+      <w id="s-1-w-7" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-8" pos="NE" lemma="Ealhhęre" norm="Ealhhere">Ealhhęre</w>
+      <w id="s-1-w-9" pos="F-" lemma="dux" norm="dux">dux</w>
+      <w id="s-1-w-10" pos="PY" lemma="micel" norm="micelne">miċelne</w>
+      <w id="s-1-w-11" pos="NB" lemma="hęre" norm="here">hęre</w>
+      <w id="s-1-w-12" pos="V-" lemma="ofslōgon" norm="ofslogon">ofslōgon</w>
+      <w id="s-1-w-13" pos="R-" lemma="æt" norm="aet">æt</w>
+      <w id="s-1-w-14" pos="NE" lemma="Sand" norm="Sand">Sand</w>
+      <w id="s-1-w-15" pos="NB" lemma="crist" norm="">-</w>
+      <w id="s-1-w-16" pos="NB" lemma="wīc" norm="wic">wīc</w>
+      <w id="s-1-w-17" pos="R-" lemma="on" norm="on">on</w>
+      <w id="s-1-w-18" pos="NE" lemma="Cęnt" norm="Cent">Cęnt</w>
+      <w id="s-1-w-19" pos="NB" lemma=";" norm="">;</w>
+      <w id="s-1-w-20" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-21" pos="V-" lemma="nigon" norm="nigon">nigon</w>
+      <w id="s-1-w-22" pos="NB" lemma="scip" norm="scipu">sċipu</w>
+      <w id="s-1-w-23" pos="NE" lemma="gefon" norm="gefengon">ġefēngon</w>
+      <w id="s-1-w-24" pos="NE" lemma="," norm="">,</w>
+      <w id="s-1-w-25" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-26" pos="PD" lemma="þā" norm="tha">þā</w>
+      <w id="s-1-w-27" pos="NB" lemma="ōþru" norm="othru">ōþru</w>
+      <w id="s-1-w-28" pos="V-" lemma="ġeflīemdon" norm="gefliemdon">ġeflīemdon</w>
+      <w id="s-1-w-29" pos="NE" lemma=";" norm="">;</w>
+      <w id="s-1-w-30" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-31" pos="A-" lemma="hǣþne" norm="haethne">hǣþne</w>
+      <w id="s-1-w-32" pos="NB" lemma="męnn" norm="menn">męnn</w>
+      <w id="s-1-w-33" pos="DF" lemma="ǣrest" norm="aerest">ǣrest</w>
+      <w id="s-1-w-34" pos="R-" lemma="ofer" norm="ofer">ofer</w>
+      <w id="s-1-w-35" pos="NB" lemma="winter" norm="winter">winter</w>
+      <w id="s-1-w-36" pos="V-" lemma="sittan" norm="saeton">sǣton</w>
+      <w id="s-1-w-37" pos="NE" lemma="." norm="">.</w>
+    </s>
+  </p>
+  <p>
+    <s id="s-1" lang="ang">
+      <w id="s-1-w-1" pos="C-" lemma="and" norm="And">And</w>
+      <w id="s-1-w-2" pos="PD" lemma="þȳ" norm="thȳ">þȳ</w>
+      <w id="s-1-w-3" pos="A-" lemma="ilca" norm="ilcan">ilcan</w>
+      <w id="s-1-w-4" pos="NB" lemma="gear" norm="geare">ġēare</w>
+      <w id="s-1-w-5" pos="V-" lemma="cuman" norm="com">cōm</w>
+      <w id="s-1-w-6" pos="V-" lemma="fēorþe" norm="feorthe">fēorþe</w>
+      <w id="s-1-w-7" pos="PY" lemma="healf" norm="healf">healf</w>
+      <w id="s-1-w-8" pos="PY" lemma="hund" norm="hund">hund</w>
+      <w id="s-1-w-9" pos="NB" lemma="scip" norm="scipa">sċipa</w>
+      <w id="s-1-w-10" pos="R-" lemma="on" norm="on">on</w>
+      <w id="s-1-w-11" pos="NE" lemma="Tęmese" norm="Temese">Tęmese</w>
+      <w id="s-1-w-12" pos="NB" lemma="crist" norm="">-</w>
+      <w id="s-1-w-13" pos="NB" lemma="muþa" norm="muthan">mūþan</w>
+      <w id="s-1-w-14" pos="NB" lemma="," norm="">,</w>
+      <w id="s-1-w-15" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-16" pos="V-" lemma="brecan" norm="braecon">brǣcon</w>
+      <w id="s-1-w-17" pos="NE" lemma="cantware" norm="Cantwara">Cantwara</w>
+      <w id="s-1-w-18" pos="NE" lemma="crist" norm="">-</w>
+      <w id="s-1-w-19" pos="NB" lemma="burh" norm="burg">burg</w>
+      <w id="s-1-w-20" pos="NB" lemma="," norm="">,</w>
+      <w id="s-1-w-21" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-22" pos="NE" lemma="lunden" norm="Lunden">Lunden</w>
+      <w id="s-1-w-23" pos="NE" lemma="crist" norm="">-</w>
+      <w id="s-1-w-24" pos="NB" lemma="burh" norm="burg">burg</w>
+      <w id="s-1-w-25" pos="NB" lemma="," norm="">,</w>
+      <w id="s-1-w-26" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-27" pos="V-" lemma="ġeflīemdon" norm="gefliemdon">ġeflīemdon</w>
+      <w id="s-1-w-28" pos="NE" lemma="beorhtwulf" norm="Beorhtwulf">Beorhtwulf</w>
+      <w id="s-1-w-29" pos="NE" lemma="Mierċna" norm="Miercna">Mierċna</w>
+      <w id="s-1-w-30" pos="NB" lemma="cyning" norm="cyning">cyning</w>
+      <w id="s-1-w-31" pos="R-" lemma="mid" norm="mid">mid</w>
+      <w id="s-1-w-32" pos="PS" lemma="he" norm="his">his</w>
+      <w id="s-1-w-33" pos="NB" lemma="fyrd" norm="fierde">fierde</w>
+      <w id="s-1-w-34" pos="NE" lemma=";" norm="">;</w>
+      <w id="s-1-w-35" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-36" pos="V-" lemma="feran" norm="ferdon">fērdon</w>
+      <w id="s-1-w-37" pos="PD" lemma="þā" norm="tha">þā</w>
+      <w id="s-1-w-38" pos="NB" lemma="sūþ" norm="suth">sūþ</w>
+      <w id="s-1-w-39" pos="R-" lemma="ofer" norm="ofer">ofer</w>
+      <w id="s-1-w-40" pos="NE" lemma="Tęmese" norm="Temese">Tęmese</w>
+      <w id="s-1-w-41" pos="R-" lemma="on" norm="on">on</w>
+      <w id="s-1-w-42" pos="NE" lemma="Sūþriġe" norm="Suthrige">Sūþriġe</w>
+      <w id="s-1-w-43" pos="NB" lemma=";" norm="">;</w>
+      <w id="s-1-w-44" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-45" pos="PP" lemma="he" norm="him">him</w>
+      <w id="s-1-w-46" pos="NB" lemma="gefeohtan" norm="gefeaht">ġefeaht</w>
+      <w id="s-1-w-47" pos="R-" lemma="wiþ" norm="with">wiþ</w>
+      <w id="s-1-w-48" pos="NE" lemma="æþelwulf" norm="AEthelwulf">Æþelwulf</w>
+      <w id="s-1-w-49" pos="NB" lemma="cyning" norm="cyning">cyning</w>
+      <w id="s-1-w-50" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-51" pos="NE" lemma="Æþelbeald" norm="AEthelbeald">Æþelbeald</w>
+      <w id="s-1-w-52" pos="PS" lemma="he" norm="his">his</w>
+      <w id="s-1-w-53" pos="NB" lemma="sunu" norm="sunu">sunu</w>
+      <w id="s-1-w-54" pos="R-" lemma="æt" norm="aet">æt</w>
+      <w id="s-1-w-55" pos="NE" lemma="Āc" norm="Ac">Āc</w>
+      <w id="s-1-w-56" pos="NB" lemma="crist" norm="">-</w>
+      <w id="s-1-w-57" pos="NB" lemma="lean" norm="lea">lēa</w>
+      <w id="s-1-w-58" pos="R-" lemma="mid" norm="mid">mid</w>
+      <w id="s-1-w-59" pos="NE" lemma="west" norm="West">West</w>
+      <w id="s-1-w-60" pos="NB" lemma="crist" norm="">-</w>
+      <w id="s-1-w-61" pos="NB" lemma="seaxna" norm="seaxna">seaxna</w>
+      <w id="s-1-w-62" pos="NB" lemma="fyrd" norm="fierde">fierde</w>
+      <w id="s-1-w-63" pos="V-" lemma="," norm="">,</w>
+      <w id="s-1-w-64" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-65" pos="V-" lemma="þǣr" norm="thaer">þǣr</w>
+      <w id="s-1-w-66" pos="PD" lemma="þæt" norm="thaet">þæt</w>
+      <w id="s-1-w-67" pos="NB" lemma="mǣste" norm="maeste">mǣste</w>
+      <w id="s-1-w-68" pos="NB" lemma="wel" norm="wael">wæl</w>
+      <w id="s-1-w-69" pos="V-" lemma="geslean" norm="geslogon">ġeslōgon</w>
+      <w id="s-1-w-70" pos="R-" lemma="on" norm="on">on</w>
+      <w id="s-1-w-71" pos="NB" lemma="hǣþnum" norm="haethnum">hǣþnum</w>
+      <w id="s-1-w-72" pos="NB" lemma="hęre" norm="here">hęre</w>
+      <w id="s-1-w-73" pos="G-" lemma="þe" norm="the">þe</w>
+      <w id="s-1-w-74" pos="V-" lemma="wē" norm="we">wē</w>
+      <w id="s-1-w-75" pos="NB" lemma="sęċġan" norm="secgan">sęċġan</w>
+      <w id="s-1-w-76" pos="V-" lemma="hieran" norm="hierdon">hīerdon</w>
+      <w id="s-1-w-77" pos="R-" lemma="oþ" norm="oth">oþ</w>
+      <w id="s-1-w-78" pos="PD" lemma="þes" norm="thisne">þisne</w>
+      <w id="s-1-w-79" pos="A-" lemma="andweard" norm="andweardan">andweardan</w>
+      <w id="s-1-w-80" pos="NB" lemma="dæġ" norm="daeg">dæġ</w>
+      <w id="s-1-w-81" pos="NB" lemma="," norm="">,</w>
+      <w id="s-1-w-82" pos="C-" lemma="and" norm="and">and</w>
+      <w id="s-1-w-83" pos="PD" lemma="þǣr" norm="thaer">þǣr</w>
+      <w id="s-1-w-84" pos="NB" lemma="sige" norm="sige">siġe</w>
+      <w id="s-1-w-85" pos="PX" lemma="niman" norm="namon">nāmon</w>
+      <w id="s-1-w-86" pos="NE" lemma="." norm="">.</w>
+    </s>
+  </p>
+</text>

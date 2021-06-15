@@ -1,3 +1,11 @@
+# Creation and Annotation of Linguistic Resources
+# University of Zurich
+
+# Author: Eyal Liron Dolev
+# 15.06.2021
+
+# Function for creating the ASCII normalized form
+
 import re
 
 conversion_dict = {'ā' : 'a',

@@ -1,3 +1,11 @@
+# Creation and Annotation of Linguistic Resources
+# University of Zurich
+
+# Author: Eyal Liron Dolev
+# 15.06.2021
+
+# Script for generating tf-idf values for the XML corpus
+
 from lxml import etree
 import argparse
 from collections import Counter
@@ -6,7 +14,7 @@ import math
 
 def get_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('file', nargs='+', type=argparse.FileType('r'))
+    parser.add_argument('file', nargs='+', type=argparse.FileType('r'), help='XML files to be processed')
     args = parser.parse_args()
     return args
 
@@ -85,6 +93,11 @@ def main():
         for token, freq in sorted(tfidf[doc].items(), key=lambda a: a[1], reverse=True)[:10]:
             print(f'{token}: {freq:.4f}')
 
+    for doc in tfidf:
+        print(doc)
+        top_ten = sorted(tfidf[doc].items(), key=lambda a: a[1], reverse=True)[:20]
+        print([i[0] for i in top_ten])
+        print([i[1] for i in top_ten])
 if __name__ == '__main__':
     main()
 

@@ -9,21 +9,17 @@ import cltk.lemmatize.old_english.lemma as oe_l
 
 tagger = POSTag('old_english')
 lemmatizer = oe_l.OldEnglishDictionaryLemmatizer()
-# def build_xml_tree():
-#     pass
-
-
-# for paragraph in file:
-#     pass
 
 
 def get_args():
+    """"Get command line arguments """
     parser = argparse.ArgumentParser()
     parser.add_argument('file', nargs='+')
     args = parser.parse_args()
     return args
 
 def generate_xml_from_file(file):
+    """ Build xml tree """
     root = etree.Element('text')
     root.attrib['title'] = file.readline().rstrip()
     for paragraph in file:
@@ -32,9 +28,7 @@ def generate_xml_from_file(file):
 
         for s_ctr, sentence in enumerate(sent_tokenize(paragraph), 1):
             clean_sent = ''.join(letter for letter in sentence if letter != '·')
-            print(clean_sent)
-            postags = tagger.tag_crf(clean_sent)
-            print(postags)
+            postags = tagger.tag_perceptron(clean_sent)
             s = etree.SubElement(p, 's')
             s.attrib['id'] = 's-' + str(s_ctr)
             s.attrib['lang'] = 'ang'
@@ -42,10 +36,8 @@ def generate_xml_from_file(file):
             for w_ctr, tag in enumerate(postags):
                 
                 w = etree.SubElement(s, 'w')
-                w.attrib['id'] = 's-' + str(s_ctr) + '-w-' + str(w_ctr+1)
-                
-                w.attrib['pos'] = tag[1]
-                
+                w.attrib['id'] = 's-' + str(s_ctr) + '-w-' + str(w_ctr+1) 
+                w.attrib['pos'] = tag[1]    
                 w.attrib['lemma'] = lemmatizer.lemmatize(tag[0])[0][1]
                 w.attrib['norm'] = normalizer(tag[0])
                 w.text = tag[0]
